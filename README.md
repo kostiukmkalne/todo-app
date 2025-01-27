@@ -25,6 +25,6 @@ The project includes the following technologies:
 - GitHub
 
 # Additional launch instructions:
-git clone [GitHub] (https://github.com/kostiukmkalne/todo-app)
-npm install
-npm start
+- git clone [GitHub] (https://github.com/kostiukmkalne/todo-app)
+- npm install
+- npm start
